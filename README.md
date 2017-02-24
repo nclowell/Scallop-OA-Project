@@ -35,7 +35,7 @@ The water chemistry data has three parts. The first is the avtech data ouptut of
 ## Sample Inventory
 
 Here is the list of populations with the number of individuals in each:
-Catalina, CA: 27
+<br>Catalina, CA: 27
 <br>Quilcene, WA: 23
 <br>Sekiu, WA: 29
 <br>Seward, AK: 13
