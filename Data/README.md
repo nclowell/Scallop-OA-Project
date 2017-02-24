@@ -6,10 +6,10 @@ Water samples killed with mercuric chloride were taken every Monday, Wednesday, 
 
 The tissue sample data is not stored here because they have not been processed yet. The four populations and the number of animals in each population were:
 
-Catalina, CA: 
-Quilcene, WA: 
-Sekiu, WA: 29
-Seward, AK: 13
+<br>Catalina, CA: 27
+<br>Quilcene, WA: 23
+<br>Sekiu, WA: 29
+<br>Seward, AK: 13
 
 **Sampling Time Zero**
 October 3, 2016
