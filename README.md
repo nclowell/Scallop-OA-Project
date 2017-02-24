@@ -34,6 +34,14 @@ The water chemistry data has three parts. The first is the avtech data ouptut of
 
 ## Sample Inventory
 
+Here is the list of populations with the number of individuals in each:
+Catalina, CA: 27
+<br>Quilcene, WA: 23
+<br>Sekiu, WA: 29
+<br>Seward, AK: 13
+
+At Time Zero I sampled 20% of the individuals, at Time One I sampled 40% of the individuals, and at Time Two I sampled 40% of the individuals.
+
 I collected tissue samples from five tissue types and stored them in RNALater:
 - ctenidia
 - gonad
