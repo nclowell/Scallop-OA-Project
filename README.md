@@ -1,6 +1,10 @@
+# Rock scallop ocean acidification project
+
+![image](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Crassedoma_giganteum_1.jpg/220px-Crassedoma_giganteum_1.jpg)
+
 ## About this repository ##
 
-This repository is for storing data, scripts, analyses, and workbooks for my adult scallop OA experiment.
+This repository is for storing the water chemistry data and research plan for the rock scallop ocean acidification project.
 
 ## About this experiment ##
 
