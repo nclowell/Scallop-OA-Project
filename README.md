@@ -41,4 +41,4 @@ I collected tissue samples from five tissue types and stored them in RNALater:
 - abductor muscle
 - mantle
 
-These samples are time sensitive in RNALater and need to be processed in the near future. They are currently stored in a -20 freezer, and are expected to last up to a year according to the RNALater information.
+These samples are time sensitive in RNALater and need to be processed in the near future. They are currently stored in a -20 freezer, and are expected to last up to a year according to the RNALater information. Sampling dates were in October and November, so the samples will survive until the end of 2017.
