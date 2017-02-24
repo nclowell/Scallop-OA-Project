@@ -27,3 +27,5 @@ An overview of the water treatment system:
 <br>
 ![image](https://github.com/nclowell/Scallop-OA-Project/blob/master/Images/Screen%20Shot%202017-02-23%20at%204.10.12%20PM.png?raw=true)
 <br>
+
+The water chemistry data has three parts. The first is the avtech data ouptut of the Durafet probes, which can be accessed [here](https://github.com/nclowell/Scallop-OA-Project/tree/master/Data/avtech). The second is the bench top probe TRIS calibrations that were taken three times a week, which can be accessed [here](https://github.com/nclowell/Scallop-OA-Project/tree/master/Data/TRIScalibs). And lastly, the pH, salinity, and temperature probes that were taken three times a week, which can be accessed [here](https://github.com/nclowell/Scallop-OA-Project/tree/master/Data/SW.chem.dps).
