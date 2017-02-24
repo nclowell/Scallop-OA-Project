@@ -12,16 +12,16 @@ Catalina, CA: 27
 <br>Seward, AK: 13
 
 **Sampling Time Zero**
-October 3, 2016
-all animals in same ambient pH water 
-20% of animals sampled
+<br>October 3, 2016
+<br>all animals in same ambient pH water 
+<br>20% of animals sampled
 
 **Sampling Time One**
-October 5, 2016
-half of animals in low pH water for ~48 hours
-40% of animals sampled
+<br>October 5, 2016
+<br>half of animals in low pH water for ~48 hours
+<br>40% of animals sampled
 
 **Sampling Time Two**
-November 23, 2016
-half of animals in low pH water since time one, about two months
-40% of animals sampled
+<br>November 23, 2016
+<br>half of animals in low pH water since time one, about two months
+<br>40% of animals sampled
