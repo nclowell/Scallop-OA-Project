@@ -28,4 +28,17 @@ An overview of the water treatment system:
 ![image](https://github.com/nclowell/Scallop-OA-Project/blob/master/Images/Screen%20Shot%202017-02-23%20at%204.10.12%20PM.png?raw=true)
 <br>
 
+## Water Chemistry Data
+
 The water chemistry data has three parts. The first is the avtech data ouptut of the Durafet probes, which can be accessed [here](https://github.com/nclowell/Scallop-OA-Project/tree/master/Data/avtech). The second is the bench top probe TRIS calibrations that were taken three times a week, which can be accessed [here](https://github.com/nclowell/Scallop-OA-Project/tree/master/Data/TRIScalibs). And lastly, the pH, salinity, and temperature probes that were taken three times a week, which can be accessed [here](https://github.com/nclowell/Scallop-OA-Project/tree/master/Data/SW.chem.dps).
+
+## Sample Inventory
+
+I collected tissue samples from five tissue types and stored them in RNALater:
+- ctenidia
+- gonad
+- gut
+- abductor muscle
+- mantle
+
+These samples are time sensitive in RNALater and need to be processed in the near future. They are currently stored in a -20 freezer, and are expected to last up to a year according to the RNALater information.
