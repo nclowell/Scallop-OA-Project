@@ -1,6 +1,9 @@
 # Rock scallop ocean acidification project
 
-![image](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Crassedoma_giganteum_1.jpg/220px-Crassedoma_giganteum_1.jpg) ![image](http://seattlemag.com/sites/default/files/newfiles/article/Mar2011/0311_water_pod.jpg)
+![image](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Crassedoma_giganteum_1.jpg/220px-Crassedoma_giganteum_1.jpg) 
+<br>
+<br>
+
 ## About this repository ##
 
 This repository is for storing the water chemistry data and research plan for the rock scallop ocean acidification project.
