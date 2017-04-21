@@ -19,14 +19,18 @@ Water chemistry was monitored in real-time with Durafet probes reading to an avt
 The basic timeline of the experiment:
 
 <br>
+
 ![image](https://github.com/nclowell/Scallop-OA-Project/blob/master/Images/timeline.png?raw=true)
+
 <br>
 
 An overview of the water treatment system:
 
 <br>
+
 ![image](https://github.com/nclowell/Scallop-OA-Project/blob/master/Images/Screen%20Shot%202017-02-23%20at%204.10.12%20PM.png?raw=true)
 <br>
+
 
 ## Water Chemistry Data
 
